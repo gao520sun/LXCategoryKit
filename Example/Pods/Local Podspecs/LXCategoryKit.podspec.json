@@ -1,0 +1,22 @@
+{
+  "name": "LXCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LXCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gao520sun/LXCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gao520sun": "406243283@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/gao520sun/LXCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LXCategoryKit/Classes/**/*"
+}
