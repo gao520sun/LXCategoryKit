@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LXCategoryKit_Example' do
+  pod 'LXCategoryKit', :path => '../'
+
+  target 'LXCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
