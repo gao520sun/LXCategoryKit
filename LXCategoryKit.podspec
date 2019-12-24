@@ -30,11 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Classes/*.swift'
+  s.source_files = 'LXCategoryKit/Classes/*.swift'
 
   
   # s.resource_bundles = {
-  #   'LXCategoryKit' => ['LXCategoryKit/Assets/*.png']
+  #   'LXCategoryKit' => ['c/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
